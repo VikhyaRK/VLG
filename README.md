@@ -2,11 +2,11 @@
 The Dataset utilized in this AI model is linked here:
 https://drive.google.com/drive/folders/1NPO5rwa0Iv1KACEKapA942MY9Rw1UdPV
 
-Image Classification
+# Image Classification
 This project focuses on creating an image classification model using TensorFlow and Keras to distinguish images according to their label. The dataset consists of images with corresponding labels indicating their category.
 
-Technologies Used
-TensorFlow and Keras: Implemented Convolutional Neural Network (CNN) layers for feature extraction from image data.
+# Technologies Used
+TensorFlow and Keras: Implemented Convolutional Neural Network (CNN) layers for feature extraction from image data. <br>
 Scikit-learn: Utilized for data preprocessing, model evaluation, and metrics calculation.
 NumPy and Pandas: Manipulated and processed data efficiently.
 Matplotlib: Visualized model performance and explored the dataset.
